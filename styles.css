@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+span{
+    display: block;
+}
+
+.content{
+    width: 80%;
+    margin: 100px  auto 50px auto;     
+    max-width: 1200px;
+    text-align: center; 
+    
+}
+.buttons_container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Allows buttons to wrap to the next line if screen size is too small */
+    margin: 70px auto 70px auto;
+    gap: 30px; /* Adds space between the buttons */
+}
+
+.button{
+    width:100px;
+    height:100px;
+    border: solid black 2px;
+    border-radius: 50px;
+    display: inline-block;
+}
+#grey{
+    background: grey;
+}
+#yellow{
+    background: yellow;
+}
+#pink{
+    background: pink;
+}
+#white{
+    background: white;
+}
+#random{
+    background: radial-gradient(red, orange, purple, green, blue, indigo, violet);
+}
+
