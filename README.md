@@ -1,5 +1,6 @@
 # BGColor_Changer_JS
-<href link="https://tanishqa11.github.io/BGColor_Changer_JS/">Click here to see the project</href>
+[Test code here !](https://tanishqa11.github.io/BGColor_Changer_JS/)
+
 The Bgcolor_Changer project is a simple yet interactive web application built using JavaScript, HTML, and CSS that allows users to change the background color of a webpage dynamically. With just a click of a button , users can apply color  to the webpage's background.
 ## Features:
 * <b>Predefined Color Palette:</b> Users can choose a background color from a predefined set of colors.
